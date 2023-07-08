@@ -14,4 +14,9 @@ return {
     },
     worktrees = vim.g.git_worktrees,
   },
+  {
+    'tribela/vim-transparent',
+    enabled= true,
+    lazy = false
+  }
 }

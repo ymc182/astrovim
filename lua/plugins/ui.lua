@@ -84,6 +84,7 @@ return {
     cmd = { "ColorizerToggle", "ColorizerAttachToBuffer", "ColorizerDetachFromBuffer", "ColorizerReloadAllBuffers" },
     opts = { user_default_options = { names = false } },
   },
+ 
   {
     "lukas-reineke/indent-blankline.nvim",
     event = "User AstroFile",
